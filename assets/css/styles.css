@@ -345,6 +345,20 @@ img {
   cursor: pointer;
   margin-left: auto;
 }
+.but {
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 36px;
+  border-radius: 18px;
+  background-color: #1c89ff;
+  border: solid 1px transparent;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+  cursor: pointer;
+  transition: all 0.1s ease-in-out;
+}
 
 /* ===== FOOTER =====*/
 .footer {
